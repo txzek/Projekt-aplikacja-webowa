@@ -16,10 +16,9 @@ Aplikacja umożliwia zarządzanie wydatkami firmy. Pracownicy dodają wydatki, a
 - Kontrola budżetu firmy.
 
 ## Technologie i dane
-- React
-- Node.js + Express
-- MongoDB
-- Tailwind CSS
+- PHP 8
+- SQLite przez PDO
+- HTML i CSS
 
 ## Zagrożenia i zabezpieczenia
 - Dostęp do cudzych wydatków – kontrola uprawnień.
@@ -30,8 +29,8 @@ Aplikacja umożliwia zarządzanie wydatkami firmy. Pracownicy dodają wydatki, a
 
 ## Plan pracy
 1. Przygotowanie projektu i repozytorium.
-2. Stworzenie interfejsu React.
-3. Przygotowanie backendu i bazy danych.
+2. Stworzenie interfejsu HTML i CSS.
+3. Przygotowanie backendu PHP i bazy danych SQLite.
 4. Dodanie funkcji wydatków i logowania.
 5. Implementacja zabezpieczeń i testowanie.
 6. Podział obowiązków
